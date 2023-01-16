@@ -1,9 +1,9 @@
 # Project-4_Car_Price_Predictor
 
-Halley Ngoc Pham
-Yan Shao
-Carl Gonzales
-Mark Stephen
+- Halley Ngoc Pham
+- Yan Shao
+- Carl Gonzales
+- Mark Stephen
 
 Project description
 
