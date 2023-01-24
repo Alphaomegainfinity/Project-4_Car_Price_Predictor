@@ -1,0 +1,40 @@
+![plot](./image/covid.png)
+#                                                   Project Proposal
+
+## Project Title: CAR PRICE PREDICTION
+
+
+### Team Members: 
+    Mark Stephen 
+    Halley Ngoc Pham
+    Carl Gonzales
+    Yan Shao
+
+### Project Description/Outline:
+    The aim of our project is to explore and uncover patterns in COVID-19 case data within
+    Australia. We’ll examine relationships between case numbers over time, between different
+    states, and compared to vaccination and hospitalisation rates.
+
+    This will involve retrieving current and historical COVID-19 case data from websites that
+    report it, listed below under data sources. This data will be stored in an SQL database,
+    cleaned and organised as necessary, then visualised. The nature of COVID-19 reporting
+    means that the visualisations produced will be live, meaning that they will be updated
+    automatically.
+
+### Data Sources:
+    https://covidlive.com.au
+
+### GitHub Repository:
+    https://github.com/FrankMS3/Project-3
+
+
+### Final Design Sketch:
+##### Home Page -
+    
+
+### Technologies Used:
+        
+    Jupyter Notebook
+    Sklearn
+    Matplotlib
+    TensorFlow  
