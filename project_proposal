@@ -11,21 +11,13 @@
     Yan Shao
 
 ### Project Description/Outline:
-    The aim of our project is to explore and uncover patterns in COVID-19 case data within
-    Australia. We’ll examine relationships between case numbers over time, between different
-    states, and compared to vaccination and hospitalisation rates.
-
-    This will involve retrieving current and historical COVID-19 case data from websites that
-    report it, listed below under data sources. This data will be stored in an SQL database,
-    cleaned and organised as necessary, then visualised. The nature of COVID-19 reporting
-    means that the visualisations produced will be live, meaning that they will be updated
-    automatically.
+    Use a dataset of used car sales prices to train a Machine Learning model to accurately predict the sales value of a used vehicle based on KMs traveled, Fuel consumption, previous owners, fuel type, transmission type and number of seats.
 
 ### Data Sources:
-    https://covidlive.com.au
+    https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?datasetId=33080&sortBy=dateCreated
 
 ### GitHub Repository:
-    https://github.com/FrankMS3/Project-3
+    https://github.com/Alphaomegainfinity/Project-4_Car_Price_Predictor.git
 
 
 ### Final Design Sketch:
@@ -33,7 +25,7 @@
     
 
 ### Technologies Used:
-        
+    Google Notebook Colaboratory    
     Jupyter Notebook
     Sklearn
     Matplotlib
