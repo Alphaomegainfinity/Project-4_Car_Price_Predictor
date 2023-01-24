@@ -1,13 +1,9 @@
-### Members:
+###  Team Members:
 
 - Halley Ngoc Pham
 - Yan Shao
 - Carl Gonzales
 - Mark Stephen
-
-Project description
-
-Use a dataset of used car sales prices to train a ML model to accurately predict the sales value of a used vehicle based on KMs traveled, Fuel consumption, previous owners, fuel type, transmission type and number of seats.
 
 
 # Project-4-Car Price Prediction with Data Visualisation 
@@ -25,7 +21,7 @@ Use a dataset of used car sales prices to train a ML model to accurately predict
 
 ### Purpose of the assignment
 
-    The aim of our project is to explore and predict the car price based on the model that we use the machine learning model to train based on the existing data. We’ll examine relationships between difference between the actual price and the predicted price.
+    The aim of our project is to explore and predict the used car price based on the model that we use the machine learning model to train based on the existing data. We’ll examine relationships between difference between the actual price and the predicted price.
 
     This will involve retrieving existing car price from Kaggle 
     automatically.
