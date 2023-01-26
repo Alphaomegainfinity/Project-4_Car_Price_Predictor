@@ -1,0 +1,32 @@
+![plot](./image/covid.png)
+#                                                   Project Proposal
+
+## Project Title: CAR PRICE PREDICTION
+
+
+### Team Members: 
+    Mark Stephen 
+    Halley Ngoc Pham
+    Carl Gonzales
+    Yan Shao
+
+### Project Description/Outline:
+    Use a dataset of used car sales prices to train a Machine Learning model to accurately predict the sales value of a used vehicle based on KMs traveled, Fuel consumption, previous owners, fuel type, transmission type and number of seats.
+
+### Data Sources:
+    https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?datasetId=33080&sortBy=dateCreated
+
+### GitHub Repository:
+    https://github.com/Alphaomegainfinity/Project-4_Car_Price_Predictor.git
+
+
+### Final Design Sketch:
+##### Home Page -
+    
+
+### Technologies Used:
+    Google Notebook Colaboratory    
+    Jupyter Notebook
+    Sklearn
+    Matplotlib
+    TensorFlow  
