@@ -47,9 +47,9 @@
 1. Compile, Train and Evaluate Model :
 
    1. Split our preprocessed data into our features and target arrays
-   1. check the best linea regression model which has the best score for training and testing. As it is shown below:
+   1. check the best linear regression model which has the best score for training and testing. As it is shown below:
       ![v2](./image/visualisation2.png)
-      We can conclude that random forest has the best traning and testing score.
+      We can conclude that ExtraTree Regressor has the best traning and testing score.
    1. Therefore, we imported RandomizedSearchCV to cross-validate the model by checking the predicted value against the actual value.
       ![v3](./image/visualisation3.png)
    1. We tried to use the deep machine learning to explore if we could get a more accurate model.
