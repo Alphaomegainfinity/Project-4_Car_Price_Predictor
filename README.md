@@ -7,7 +7,7 @@
 
 # Project-4-Car Price Prediction with Data Visualisation
 
-![car](./image/car.jpg)
+![car](./images/car.jpg)
 
 **_Table of Contents:_**
 
@@ -41,22 +41,23 @@
    1. Data cleaning: dropping the columns and convert column type
    1. Visualise the coalation between all catergorical columns, ie
       engine type or km driven.
-      ![v1](./image/visualisation1.png)
+      ![v1](./images/visualisation1.png)
    1. Data transformation : using getting dummies to transform the dataset.
 
 1. Compile, Train and Evaluate Model :
 
    1. Split our preprocessed data into our features and target arrays
    1. check the best linear regression model which has the best score for training and testing. As it is shown below:
-      ![v2](./image/visualisation2.png)
+      ![v2](./images/visualisation2.png)
       We can conclude that ExtraTree Regressor has the best traning and testing score.
    1. Therefore, we imported RandomizedSearchCV to cross-validate the model by checking the predicted value against the actual value.
-      ![v3](./image/visualisation3.png)
+      ![v3](./images/visualisation3.png)
    1. We tried to use the deep machine learning to explore if we could get a more accurate model.
       Here is our best training and validation accuracy plot:
-      ![v4](./image/visualisation4.png)
+      ![v4](./images/visualisation4.png)
 
 1. compare different models by dropping different columns
+   we have experimented
 
 ### Conclusion:
 
