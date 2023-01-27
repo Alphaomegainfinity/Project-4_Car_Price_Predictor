@@ -20,16 +20,15 @@
 
 ### Purpose of the assignment
 
-    The aim of our project is to explore and predict the used car price based on the model that we use the machine learning model to train based on the existing data. We’ll examine difference between the actual price and the predicted price.
+    The aim of our project is to explore and predict the used car price based on the model that we use the machine learning model to train based on the existing data.     We’ll examine difference between the actual price and the predicted price.
 
-    This will involve retrieving existing car price from Kaggle
-    automatically.
+    This will involve retrieving existing car price from Kaggle website.
 
 </br>
 
 ### Data sources:
 
-    -https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?datasetId=33080&sortBy=dateCreated
+    https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?datasetId=33080&sortBy=dateCreated
 
 </br>
 
