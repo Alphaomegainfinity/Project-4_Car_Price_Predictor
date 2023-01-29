@@ -38,12 +38,12 @@
 
    1. Import data from our github link'https://raw.githubusercontent.com/Alphaomegainfinity/Project-4_Car_Price_Predictor/main/Resources/Car%20details%20v3.csv'and retrieve the dataset
    1. Data cleaning: dropping the columns and convert column type
-   1. Visualise the coalation between all catergorical columns, ie
+   1. Data Visualisation : Visualise the coalation between all catergorical columns, ie
       engine type or km driven.
       ![v1](./images/visualisation1.png)
    1. Data transformation : using getting dummies to transform the dataset.
 
-1. Compile, Train and Evaluate Model :
+1. Compile, Train the Model :
 
    1. Split our preprocessed data into our features and target arrays
    1. check the best linear regression model which has the best score for training and testing. As it is shown below:
@@ -55,7 +55,8 @@
       Here is our best training and validation accuracy plot:
       ![v4](./images/visualisation4.png)
 
-1. compare different models by dropping different columns
+1. Evaluation the model
+   compare different models by dropping different columns
    we have experimented
 
 ### Conclusion:
